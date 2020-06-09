@@ -4,7 +4,7 @@
 ## start for devlopment
 
 ```
-cd mean-backend
+cd mean-back
 npm install
 npm start
 ```
