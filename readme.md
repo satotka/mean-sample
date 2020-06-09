@@ -9,6 +9,8 @@ npm install
 npm start
 ```
 
+open another terminal.
+
 ```
 cd mean-front
 npm install
